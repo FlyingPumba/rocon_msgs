@@ -1,6 +1,15 @@
 Changelog
 =========
 
+0.7.8 (2014-11-21)
+------------------
+
+0.7.6 (2014-08-25)
+------------------
+* Export architecture_independent flag in package.xml
+* add public parameters in resource
+* Contributors: Jihoon Lee, Scott K Logan
+
 0.7.4 (2014-05-05)
 ------------------
 * concert client messages with a more expansive set of states.

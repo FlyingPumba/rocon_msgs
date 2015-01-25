@@ -1,6 +1,20 @@
 Changelog
 =========
 
+0.7.8 (2014-11-21)
+------------------
+* strings for os
+* add gazebo robot type for export
+* Contributors: Jihoon Lee
+
+0.7.6 (2014-08-25)
+------------------
+* Export architecture_independent flag in package.xml
+* rocon_std_msgs: error: missing build_depend on 'genmsg'
+  rocon_std_msgs: error: unconfigured build_depend on 'message_generation'
+  rocon_std_msgs: error: unconfigured build_depend on 'uuid_msgs'
+* Contributors: Jihoon Lee, Scott K Logan
+
 0.7.1 (2014-04-09)
 ------------------
 * igloo -> indigo
