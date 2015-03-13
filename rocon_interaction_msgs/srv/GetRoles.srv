@@ -4,5 +4,7 @@
 # Filter according to the rocon uri of the requesting device. T
 # If not specified, the manager will assume 'rocon://' (wildcards)
 string uri
+# User name will be used to filter the roles if authorization is enabled
+string user
 ---
 string[] roles
